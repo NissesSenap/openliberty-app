@@ -15,7 +15,9 @@ mvn failsafe:integration-test
 
 ## endpoints
 
+```bash
 http://localhost:9080/metrics/
 http://localhost:9080/health/
 http://localhost:9080/ibm/api/
 http://localhost:9080/
+```
