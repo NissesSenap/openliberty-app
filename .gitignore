@@ -24,3 +24,7 @@ README.html
 
 # Zip files
 *.zip
+
+# vscode
+
+.history
